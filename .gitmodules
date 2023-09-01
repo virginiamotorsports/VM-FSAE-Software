@@ -1,0 +1,30 @@
+[submodule "src/can-dbc-nodes"]
+	path = src/can-dbc-nodes
+	url = git@github.com:virginiamotorsports/can-dbc-nodes.git
+	branch = main
+	update = none
+	ignore = all
+[submodule "Documentation"]
+	path = Documentation
+	url = git@github.com:virginiamotorsports/Documentation.git
+	branch = main
+	update = none
+	ignore = all
+[submodule "docker_images"]
+	path = docker_images
+	url = git@github.com:virginiamotorsports/docker_images.git
+	branch = main
+	update = none
+	ignore = all
+[submodule "src/fastdash"]
+	path = src/fastdash
+	url = git@github.com:virginiamotorsports/fastdash.git
+	branch = main
+[submodule "src/dash_msgs"]
+	path = src/dash_msgs
+	url = git@github.com:virginiamotorsports/dash_msgs.git
+	branch = main
+[submodule "src/pydash"]
+	path = src/pydash
+	url = git@github.com:virginiamotorsports/pydash.git
+	branch = main
