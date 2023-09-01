@@ -20,11 +20,17 @@
 	path = src/fastdash
 	url = git@github.com:virginiamotorsports/fastdash.git
 	branch = main
+	update = none
+	ignore = all
 [submodule "src/dash_msgs"]
 	path = src/dash_msgs
 	url = git@github.com:virginiamotorsports/dash_msgs.git
 	branch = main
+	update = none
+	ignore = all
 [submodule "src/pydash"]
 	path = src/pydash
 	url = git@github.com:virginiamotorsports/pydash.git
 	branch = main
+	update = none
+	ignore = all
