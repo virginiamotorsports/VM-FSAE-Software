@@ -34,3 +34,9 @@
 	branch = main
 	update = none
 	ignore = all
+[submodule "src/vectornav_driver"]
+	path = src/vectornav_driver
+	url = git@github.com:virginiamotorsports/vectornav_driver.git
+	branch = main
+	update = none
+	ignore = all
